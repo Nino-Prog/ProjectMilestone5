@@ -44,7 +44,7 @@ Set up your environment variables:
 # Copy this format to your .env file in the project root
 PORT=3000
 DB_URI=mongodb://localhost:27017/CSC300x
-Usage
+
 
 Start the server:
 
