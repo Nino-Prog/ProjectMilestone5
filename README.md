@@ -31,7 +31,7 @@ Vintage Treasures is your go-to destination for finding one-of-a-kind vintage it
 ### Setup
 Clone this repository:
 
-git clone https://https://github.com/Nino-Prog/CSC300XProject.git
+git clone https://https://github.com/Nino-Prog/ProjectMilestone5.git
 cd CSC300x
 
 Install dependencies:
@@ -66,5 +66,5 @@ For inquiries, please contact [Nino](mailto:nombongi2@gmail.com).
 
 ## Live Version
 
-Check out the live version of Vintage Treasures on [GitHub Pages](https://Nino-prog.github.io/CSC300XProject/).
+Check out the live version of Vintage Treasures on [GitHub Pages](https://Nino-prog.github.io/ProjectMilestone5/).
 
